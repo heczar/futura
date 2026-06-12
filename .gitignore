@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+
+# Compilados
+dist/
+dist-ssr/
+*.local
+
+# Variables sensibles (¡Nunca las subas a GitHub!)
+.env
+.env.production
+
+# Sistema y editores
+.DS_Store
+.vscode/
+.idea/
